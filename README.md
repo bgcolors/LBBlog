@@ -1,7 +1,6 @@
 # LBBlog
 Blog of the lazy boy
-```
-*注意: 如果你是个东北人 不要尝试用中文去拼
-```
+
+This blog is based on github project wiki, the cause is what's the name's meaning. for more, please move to [wiki](https://github.com/bgcolors/LBBlog/wiki)
 
 @author [bgcolors](https://github.com/bgcolors)
